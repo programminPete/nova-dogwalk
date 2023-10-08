@@ -1,14 +1,13 @@
-Note - See "rn" branch for actual frontend, here was mostly just sudo - but didnt want to overwrite this branch code so I didn't complicate the actual original ask
-
-<img width="444" alt="app_preview" src="https://github.com/programminPete/nova-dogwalk/assets/17052780/c5950844-e229-4ed9-8abb-ca79a266307a">
-
-
 # Walk the Dog
 
 Thank you so much for the opportunity! I love companies who give take homes (or just realstic live coding) challenges, as opposed to arbitrary algorithm questions. So, immediate +1 to Novalabs culture! (and I love dogs.. +2 lol).
 
 Please let me know if this whimsical link is not accessible as most of the information is there:
 https://whimsical.com/novalabs-dogwalker-app-6dSeaD6SqtjnsXXdFjr7Qx
+
+Note - See "rn" branch for actual frontend, here was mostly just sudo - but didnt want to overwrite this branch code so I didn't complicate the actual original ask
+
+<img width="444" alt="app_preview" src="https://github.com/programminPete/nova-dogwalk/assets/17052780/c5950844-e229-4ed9-8abb-ca79a266307a">
 
 ## Questions
 
